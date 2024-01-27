@@ -1,0 +1,41 @@
+/* PC */
+@media (width:1024px) {
+    .grid-body {
+        width: 1024px !important;
+        margin: 0 auto ;
+    }
+    .search-group {
+        margin-left: 30px !important;
+        width: 600px !important;
+        .categories, .line-search, input {
+            margin-left: 15px !important;
+        }
+        .categories > img {
+            margin-left: 15px !important;
+        }
+    }
+    .login {
+        margin-left: 15px !important;
+    }
+    .wishlist {
+        margin-left: 15px !important;
+    }
+    .cart {
+        margin-left: 15px !important;
+    }
+
+    .categories-nav {
+        width: 180px !important;
+        margin-left: 10px !important;
+    }
+}
+
+/* Talet */
+@media (min-width:740px) and (max-width:1023px) {
+    
+}
+
+/*Mobile*/
+@media (max-width:740px){
+    
+}
